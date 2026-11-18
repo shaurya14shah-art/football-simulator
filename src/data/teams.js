@@ -1,0 +1,22 @@
+export const TEAMS = [
+  { id: 1, name: 'Manchester City', atk: 90, def: 85, color: '#6CABDD' },
+  { id: 2, name: 'Arsenal', atk: 86, def: 88, color: '#EF0107' },
+  { id: 3, name: 'Liverpool', atk: 88, def: 82, color: '#C8102E' },
+  { id: 4, name: 'Aston Villa', atk: 80, def: 78, color: '#95BFE5' },
+  { id: 5, name: 'Tottenham Hotspur', atk: 84, def: 75, color: '#132257' },
+  { id: 6, name: 'Chelsea', atk: 82, def: 80, color: '#034694' },
+  { id: 7, name: 'Newcastle United', atk: 83, def: 81, color: '#241F20' },
+  { id: 8, name: 'Manchester United', atk: 81, def: 79, color: '#DA291C' },
+  { id: 9, name: 'West Ham United', atk: 78, def: 76, color: '#7A263A' },
+  { id: 10, name: 'Crystal Palace', atk: 75, def: 78, color: '#1B458F' },
+  { id: 11, name: 'Brighton', atk: 79, def: 74, color: '#0057B8' },
+  { id: 12, name: 'Bournemouth', atk: 76, def: 73, color: '#DA291C' },
+  { id: 13, name: 'Fulham', atk: 74, def: 75, color: '#FFFFFF' },
+  { id: 14, name: 'Wolverhampton', atk: 72, def: 77, color: '#FDB913' },
+  { id: 15, name: 'Everton', atk: 70, def: 80, color: '#003399' },
+  { id: 16, name: 'Brentford', atk: 75, def: 72, color: '#E30613' },
+  { id: 17, name: 'Nottingham Forest', atk: 71, def: 74, color: '#E53233' },
+  { id: 18, name: 'Luton Town', atk: 68, def: 65, color: '#F78F1E' },
+  { id: 19, name: 'Burnley', atk: 69, def: 70, color: '#6C1D45' },
+  { id: 20, name: 'Sheffield United', atk: 65, def: 68, color: '#EE2737' }
+];
